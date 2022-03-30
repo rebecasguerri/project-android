@@ -39,6 +39,7 @@ header {
      min-height: 150px;
      padding-top: 40px;
      text-align: center;
+     
 }
 
 header > h1{
@@ -58,8 +59,9 @@ header > p{
     padding-left: 10px;
     padding-top: 16px;
     margin: auto;
+    padding-bottom: 10px;
     text-shadow: 2px 2px 15px rgba(0, 0, 0, 0.501);
-
+    
 
 
 }
@@ -102,6 +104,7 @@ main > h1{
     font-family: var(--fonte-Android);
     color: var(--cor5);
     font-weight: normal;
+    font-size: 1.9em;
    
 }
 
@@ -110,6 +113,7 @@ main > img.pequena{
     max-width: 350px;
     display: block;
     margin: auto;
+    
 }
 
 main > h2 {
