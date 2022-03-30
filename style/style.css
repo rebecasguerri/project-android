@@ -104,9 +104,6 @@ main > h1{
    
 }
 
-
-
-
 main > img.pequena{
 
     max-width: 350px;
@@ -121,8 +118,8 @@ main > h2 {
      font-weight: normal;
 }
     
-    
-     main p {
+
+ main p {
     margin: 15px 0px;
     text-align:justify;
     text-indent: 30px;
