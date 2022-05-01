@@ -116,11 +116,18 @@ main > img.pequena{
     
 }
 
-main#dandroids{
+main picture#dandroids{
     min-width: 350px;
+    margin: auto;
+ 
 }
-main#irina{
-    min-width: 350px;
+ picture img source{
+    width: 550px;
+    background-color: aqua;
+    margin: auto;
+    
+    
+  
 }
 main > h2 {
      font-family: var(--fonte-Android);
