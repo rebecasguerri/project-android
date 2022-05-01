@@ -116,6 +116,12 @@ main > img.pequena{
     
 }
 
+main#dandroids{
+    min-width: 350px;
+}
+main#irina{
+    min-width: 350px;
+}
 main > h2 {
      font-family: var(--fonte-Android);
      color: var(--cor4);
